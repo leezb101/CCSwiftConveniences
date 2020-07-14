@@ -21,6 +21,7 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		07C5CCC824BD3B9500060515 /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C5CCC724BD3B9500060515 /* StringExtensions.swift */; };
 		07F166F924B85AC5007FEAE0 /* BoolExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07F166F824B85AC5007FEAE0 /* BoolExtensions.swift */; };
 		07F166FB24B85C76007FEAE0 /* DIctionaryExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07F166FA24B85C76007FEAE0 /* DIctionaryExtensions.swift */; };
 		07F166FD24BC0598007FEAE0 /* DoubleExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07F166FC24BC0598007FEAE0 /* DoubleExtensions.swift */; };
@@ -52,6 +53,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		07C5CCC724BD3B9500060515 /* StringExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtensions.swift; sourceTree = "<group>"; };
 		07F166F824B85AC5007FEAE0 /* BoolExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoolExtensions.swift; sourceTree = "<group>"; };
 		07F166FA24B85C76007FEAE0 /* DIctionaryExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DIctionaryExtensions.swift; sourceTree = "<group>"; };
 		07F166FC24BC0598007FEAE0 /* DoubleExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoubleExtensions.swift; sourceTree = "<group>"; };
@@ -140,6 +142,7 @@
 				07F166FE24BC0A9E007FEAE0 /* FloatExtensions.swift */,
 				07F1670024BC0D8D007FEAE0 /* IntExtensions.swift */,
 				07F1670224BC4382007FEAE0 /* OptionalExtensions.swift */,
+				07C5CCC724BD3B9500060515 /* StringExtensions.swift */,
 			);
 			name = CCSwiftConveniences;
 			path = Sources/CCSwiftConveniences;
@@ -229,6 +232,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 0;
 			files = (
+				07C5CCC824BD3B9500060515 /* StringExtensions.swift in Sources */,
 				07F166FD24BC0598007FEAE0 /* DoubleExtensions.swift in Sources */,
 				OBJ_22 /* ArrayExtensions.swift in Sources */,
 				07F1670324BC4382007FEAE0 /* OptionalExtensions.swift in Sources */,
